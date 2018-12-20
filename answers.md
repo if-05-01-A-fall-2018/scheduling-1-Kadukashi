@@ -11,6 +11,7 @@ It is important that the order is verifyed before the order can be confirmed.
 | Expected run time (msec) | 2 | 5 | 8 | 12 | 16 | 21 | 34 | 55 |
 
 Sum: 2  + 7 + 15  + 27  + 43  +  64 +  98  + 153 = __409 msec__
+
 Average: 409 msec / 8 = 51.125 msec
 
 
