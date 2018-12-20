@@ -12,9 +12,6 @@ It is important that the order is verifyed before the order can be confirmed.
 
 Sum: 2  + 7 + 15  + 27  + 43  +  64 +  98  + 153 = __409 msec__
 
-Average: 409 msec / 8 = 51.125 msec
-
-
 ---
 ## Round-Robin Scheduler --- Discussion
 The process which occours twice in the list, would get twice the time more time then all the other process.
