@@ -14,4 +14,4 @@ Sum: 2  + 7 + 15  + 27  + 43  +  64 +  98  + 153 = __409 msec__
 
 ---
 ## Round-Robin Scheduler --- Discussion
-The process which occours twice in the list, would get twice more time then all the other process.
+The process which occours twice in the list, would get twice more time then all the other processes.
